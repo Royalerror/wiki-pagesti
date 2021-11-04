@@ -2002,24 +2002,6 @@ select {
 	--tw-placeholder-opacity: 1;
 	color: rgba(107, 114, 128, var(--tw-placeholder-opacity));
 }
-.placeholder-opacity-30::-moz-placeholder {
-	--tw-placeholder-opacity: 0.3;
-}
-.placeholder-opacity-30:-ms-input-placeholder {
-	--tw-placeholder-opacity: 0.3;
-}
-.placeholder-opacity-30::placeholder {
-	--tw-placeholder-opacity: 0.3;
-}
-.placeholder-opacity-10::-moz-placeholder {
-	--tw-placeholder-opacity: 0.1;
-}
-.placeholder-opacity-10:-ms-input-placeholder {
-	--tw-placeholder-opacity: 0.1;
-}
-.placeholder-opacity-10::placeholder {
-	--tw-placeholder-opacity: 0.1;
-}
 .placeholder-opacity-50::-moz-placeholder {
 	--tw-placeholder-opacity: 0.5;
 }
